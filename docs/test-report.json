@@ -1,0 +1,23 @@
+{
+  "checks": [
+    "All 35 rooms connected",
+    "Drain entry",
+    "Orchestra gated before diary",
+    "Archive requires key",
+    "Lena rescued",
+    "Terminal requires code",
+    "Security disabled",
+    "Anya rescued",
+    "Five unique keys",
+    "Diary read",
+    "Chip and radio",
+    "Main exit unlocked",
+    "Four main endings and cancel",
+    "Secret ending available",
+    "Enemy spawns",
+    "Enemy damages player",
+    "Hiding protects and heals",
+    "Save round trip"
+  ],
+  "errors": []
+}

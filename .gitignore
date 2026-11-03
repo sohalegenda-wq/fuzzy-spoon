@@ -1,0 +1,6 @@
+*.jks
+*.keystore
+*.idsig
+game/classes/
+game/*.dex
+game/*.apk
